@@ -29,7 +29,7 @@ Thank you for your interest in the substrate documentation. As part of the new P
 
 ## This repository has been archived
 
-This repository has now been archived and the content frozen. If you'd like to contribute to the new Polkadot Documentation, please visit github.com/polkadot-developers/polkadot-docs to get involved. The old content will be kept for now in it's markdown form for you to view if you so wish.
+This repository has now been archived and the content frozen. If you'd like to contribute to the new Polkadot Documentation, please visit github.com/polkadot-developers/polkadot-docs to get involved. The old content will be kept for now in its markdown form for you to view if you so wish.
 
 
 <!-- Substrate **documentation** is license under the [Apache 2 license](./LICENSE). -->
