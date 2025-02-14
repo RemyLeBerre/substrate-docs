@@ -6,7 +6,7 @@
 # the new redirects will take presedence over the old ones.
 
 # substrate.io -> polkadot.com migration
-/build/application-development/                                             https://docs.polkadot.com/develop/
+/build/application-development/                                             https://docs.polkadot.com/develop/                                        301!
 /build/build-a-deterministic-runtime/                                       https://docs.polkadot.com/develop/parachains/deployment/build-deterministic-runtime/                                        301!
 /build/build-process/                                                       https://docs.polkadot.com/develop/parachains/deployment/build-deterministic-runtime/                                        301!
 /build/chain-spec/                                                          https://docs.polkadot.com/develop/parachains/deployment/generate-chain-specs/                                               301!
@@ -94,7 +94,7 @@
 /tutorials/build-a-blockchain/simulate-network/                             https://docs.polkadot.com/tutorials/polkadot-sdk/testing/spawn-basic-chain/#connect-to-the-nodes                             301!
 /tutorials/build-a-blockchain/upgrade-a-running-network/                    https://docs.polkadot.com/develop/parachains/maintenance/runtime-upgrades/                          301!
 /tutorials/build-a-blockchain/                                              https://docs.polkadot.com/tutorials/polkadot-sdk/parachains/                                                   301!
-/tutorials/build-a-parachain/acquire-a-testnet-slot/                        https://docs.polkadot.com/tutorials/polkadot-sdk/parachains/zero-to-hero/deploy-to-testnet/
+/tutorials/build-a-parachain/acquire-a-testnet-slot/                        https://docs.polkadot.com/tutorials/polkadot-sdk/parachains/zero-to-hero/deploy-to-testnet/                 301!
 /tutorials/build-a-parachain/connect-a-local-parachain/                     https://docs.polkadot.com/tutorials/polkadot-sdk/parachains/zero-to-hero/                      301!
 /tutorials/build-a-parachain/prepare-a-local-relay-chain/                   https://docs.polkadot.com/tutorials/polkadot-sdk/parachains/zero-to-hero/                    301!
 /tutorials/build-a-parachain/xcm/                                           https://docs.polkadot.com/develop/interoperability/send-messages/                                                           301!
@@ -161,7 +161,7 @@
 /reference/how-to-guides/parachains/add-paranodes/                          https://docs.polkadot.com/infrastructure/running-a-node/                                    301!
 /reference/how-to-guides/parachains/add-hrmp-channels/                      https://docs.polkadot.com/tutorials/interoperability/xcm-channels/                                                          301!
 /reference/how-to-guides/parachains/auctions-and-crowdloans/                https://docs.polkadot.com/                                                                                                  301!
-/reference/how-to-guides/parachains/connect-to-a-relay-chain/               https://docs.polkadot.com/tutorials/polkadot-sdk/parachains/zero-to-hero/deploy-to-testnet/
+/reference/how-to-guides/parachains/connect-to-a-relay-chain/               https://docs.polkadot.com/tutorials/polkadot-sdk/parachains/zero-to-hero/deploy-to-testnet/                                              301!
 /reference/how-to-guides/parachains/select-collators/                       https://docs.polkadot.com/                                                                                                  301!
 /reference/how-to-guides/parachains/upgrade-a-parachain/                    https://docs.polkadot.com/develop/parachains/maintenance/runtime-upgrades/                                                  301!
 /reference/how-to-guides/parachains/convert-a-solo-chain/                   https://docs.polkadot.com/                                                                                                  301!
